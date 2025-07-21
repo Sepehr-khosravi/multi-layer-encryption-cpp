@@ -1,3 +1,0 @@
-/c/users/parsian/Desktop/practiceC++/build/CMakeFiles/encrypting.dir
-/c/users/parsian/Desktop/practiceC++/build/CMakeFiles/edit_cache.dir
-/c/users/parsian/Desktop/practiceC++/build/CMakeFiles/rebuild_cache.dir
