@@ -106,15 +106,3 @@ yaml
 Copy
 Edit
 
----
-
-Let me know if you'd like me to localize it for Persian users or turn it into a stylish GitHub page.
-
-
-
-
-
-
-
-
-Ask ChatGPT
