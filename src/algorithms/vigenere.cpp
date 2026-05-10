@@ -1,7 +1,7 @@
 #include "algorithms/vigenere.hpp"
 #include <cctype>
 
-// تابع کمک برای تبدیل حروف به عدد (0-25)
+
 
 static int charToInt(char c){
     if(std::isupper(c)) return c - 'A' ;
@@ -9,7 +9,6 @@ static int charToInt(char c){
     return 0 ;
 }
 
-// تابع کمک برای تبدیل عدد به حرف با حفظ بزرگ یا کوچک بودن
 
 static char intToChar(int i , char original){
     if(std::isupper(original)) return 'A' + i;
